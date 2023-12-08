@@ -3,16 +3,16 @@
 # Hello, I am Mabrouka Chebbi 👋
 
 I'm a Full-Stack Web Developer 💻 who is open to new job opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
-I am also interested in DevOps & Cloud Computing☁️🐳. My curiosity led me to projects related to Agile/DevOps values and practices, automation and cloud. DevOps isn't just a buzz word for me but a whole culture.
+<br> I am also interested in DevOps & Cloud Computing☁️🐳. My curiosity led me to projects related to Agile/DevOps values and practices, automation and cloud. DevOps isn't just a buzz word for me but a whole culture.
 <br>
 <br>
 <br>
 
 ## About me 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning more about MERN Stack and CKA
+- 🌱 I’m currently learning more about CKA
 - 👯 I’m looking to collaborate on open source projects and to work as a freelancer
-- 💻 Code-skills: Angular, Spring (Core, Data, Boot, Security), Java, JavaScript(ES6), TypeScript, ReactJS, NodeJS, ExpressJS, Bootstrap, Python, HTML5, CSS3, Postman, Swagger, Maven, Log4j, JUnit, Sonar, MySQL, Oracle, PostgreSQL, MongoDB, Jira, SCRUM
+- 💻 Code-skills: Angular, Spring (Core, Data, Boot, Security), Java, JavaScript(ES6), TypeScript, NodeJS, Bootstrap, Python, HTML5, CSS3, Postman, Swagger, Maven, Log4j, JUnit, Sonar, MySQL, Oracle, PostgreSQL, MongoDB, Jira, SCRUM
 - 💻 DevOps&Cloud-skills: Jenkins, Gitlab CI/CD, Docker, Kubernetes, Ansible, Terraform, AWS, Azure, OpenStack, Nexus, Grafana, KVM, VMware, Scripting, Linux 
 - 👩🏻‍💻I love exploring new tech stack and developing new stuffs
 - 📢 Fav-quote: "Once you stop learning, you start dying." Einstein 
