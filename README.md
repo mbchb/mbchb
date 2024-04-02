@@ -1,8 +1,8 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="295" />
 
-# Hello, I am Mabrouka Chebbi 👋
+# Hello, I am Mabrouka Chebbi 💻👋
 
-I'm a Full-Stack Web Developer 💻 who is open to new job opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
+I'm a DevOps & Cloud Enginner 💻 who is open to new job opportunities! I enjoy writing clean and expressive code. It is always my pleasure to figure out where to improve.
 <br> I am also interested in DevOps & Cloud Computing☁️🐳. My curiosity led me to projects related to Agile/DevOps values and practices, automation and cloud. DevOps isn't just a buzz word for me but a whole culture.
 <br>
 <br>
